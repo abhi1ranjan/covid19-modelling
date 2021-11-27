@@ -1,0 +1,2 @@
+# covid19-modelling
+We are using SEIRV model for predicting the total number of covid cases for the districts of Karnatka state. Based on the reported cases and cases to infection ratio, we are predicting cases for a particular date, for a range of dates. And when vaccinations starts, using these details, we are callibrating the infection rate and then projecting forward the model till 31st December 2021.
